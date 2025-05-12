@@ -6,6 +6,6 @@ export default function robots() {
         allow: "/",
       },
     ],
-    host: "https://dale.omsimos.com",
+    host: "https://anshika-folio.vercel.app/",
   };
 }
